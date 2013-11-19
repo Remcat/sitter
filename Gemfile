@@ -47,6 +47,8 @@ gem 'figaro'
 gem 'pg'
 gem 'event-calendar', :require => 'event_calendar'
 gem 'high_voltage'
+gem 'bcrypt-ruby', '3.1.2'
+gem 'simple_form', '>= 3.0.0.rc'
 
 group :development do
   gem 'better_errors'

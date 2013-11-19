@@ -1,5 +1,5 @@
-require_relative '../spec_helper'
+require 'spec_helper'
 
-describe Event do
+describe Group do
   pending "add some examples to (or delete) #{__FILE__}"
 end
